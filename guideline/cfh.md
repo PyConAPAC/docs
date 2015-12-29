@@ -1,5 +1,3 @@
-<head><title>PyCon Asia Pacific 2017</title></head>
-
 # PyCon Asia Pacific 2017
 
 ## Call for Participation
@@ -11,7 +9,7 @@ their country of origin.
 
 ## Introduction
 
-The PyCon APAC conference series is presently ‘owned’ by a group of active
+The PyCon APAC conference series is presently 'owned' by a group of active
 volunteers that represent PyCon organizers in various Asia Pacific countries.
 In the past, such organizers were sought to host the PyCon APAC brand of the
 conference as part of their in-country PyCon. Since the first PyCon APAC in
@@ -335,5 +333,5 @@ remotely and persist from location to location. This framework will help:
 3. encourage the wider APAC community to take part in the organization process
    beside the on-site team
 
-The PyCon APAC framework can take reference from models such as [those of
-EuroPython](http://www.europythonsociety.org/post/99718376575/europythonworkgroupscallforvolunteers).
+The PyCon APAC framework can take reference from models such as those of
+[EuroPython](http://www.europython-society.org/).
