@@ -89,7 +89,7 @@ off by the PAC before they can be put in place.
 2. The on-site team must be geographically located in a country in the Asia
    Pacific and Australasia region. 
 
-3. The on-site team must be willing to actively coordinate with the PAC board
+3. The on-site team must be willing to actively coordinate with the APAC board
    and the other regional Python groups or Python workgroups where applicable,
    so that all parts of the PyCon APAC ecosystem can work together in a
    productive way. Of importance is the quality of the presentations which
@@ -100,9 +100,9 @@ off by the PAC before they can be put in place.
       afforded to the proposers in order to assist improvements to their
       presentations where applicable.
 
-4. The on-site team must be composed of at least five (5) active members and
+4. The on-site team must be composed of at least three (3) active members and
    the team, or a majority of its members thereof has previously organized at
-   least one (1) PyCon conference before. Five members is the bare minimum for
+   least one (1) PyCon conference before. Three members is the bare minimum for
    the on-site team to successfully handle the amount of work required to
    organize the conference. 
 
@@ -131,26 +131,11 @@ off by the PAC before they can be put in place.
    Proposals will have to provide details about how these can be implemented at
    the proposed venues.
 
-   1. Food and drinks for lunches and breaks on all conference days (and
-      tutorials and sprints where applicable)
-
-   2. Optionally, breakfast on all conference days (not necessarily on the
-      tutorial and sprint days where applicable)
-
    3. WLAN service to access the Internet during the conference (and the
       tutorial and sprints if applicable)
 
-   4. At least one social event, which can be a dinner, a show or some other
-      form of entertainment, where food and drinks are served. The main social
-      event should ideally be available to all attendees, but may also be
-      limited to a lower number of people, if the selected venue cannot serve
-      as many participants.
-
    5. Audio/video facilities to support speakers and talk recordings.
 
-8. The conference must take place within the following preferred timeframe: May
-   1st - October 31th. It is possible to propose more than just one set of
-   conference dates if necessary, since the costs may vary across this timeframe.
 
 9. The on-site team must provide a local expenses budget plan as part of the
    proposal. An example budget plan can be provided on request. The on-site
@@ -205,12 +190,6 @@ The proposal must cover all of the following points:
    5. Conference desk manager: responsible for the on-site help desk, on-site
       registrations, tickets, cash refunds, attendee support, etc.
 
-6. List of all team members that will be present during the conference itself
-   as volunteers (but not necessarily help before the conference begins),
-   and/or sources from which people can be or will be acquired if needed (e.g.,
-   universities, other local associations, etc.). This list is indicative, as most
-   of the volunteers helping during the conference are usually enrolled during
-   the last months/weeks before the conference.
 
 7. List of potential international and local sponsors. Note : Local sponsors
    help a lot in funding the conference. These are often smaller companies
@@ -222,20 +201,6 @@ The proposal must cover all of the following points:
 8. Proposed dates for PyCon APAC 2017.
 
 9. Keynote speakers proposed. 
-
-10. Conference events. Describe which kind of (social) events you can propose
-    for the conference and are able to provide support for.
-
-11. Expected differences from previous PyCon APAC conferences (2014 and 2015).
-    Please highlight what things would need to be changed in the way the
-    conference is run on-site. Examples of things we would consider worthwhile
-    to mention:
-
-    1. "We can get additional support from the local government / city council"
-    2. "We need to provide tickets to city locals at reduced prices"
-    3. "We intend to serve meals in a different venue"
-    4. "We have some extra space available for posters / sponsors"
-    5. "We want to have our local Python conference run as satellite event" etc.
 
 12. Venue proposal. Describe the following sub-items:
 
@@ -253,11 +218,7 @@ The proposal must cover all of the following points:
 
     6. Lightning equipment, availability of on-site support for lighting
 
-    7. Upstream internet connection (at least 100MB up and downstream)
-
-    8. WLAN structure, service provider, their experience with similar events
-       (The WLAN has to be able to handle at least the number of participant
-       devices expected without problems)
+    7. Upstream internet connection
 
     9. Available space for conference desk, sponsor booths, posters, social
        event, etc., planned locations of these on the floor plans
