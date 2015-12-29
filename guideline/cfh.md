@@ -32,10 +32,12 @@ submissions. Proposals must be submitted until midnight on the deadline day,
 and must adhere to the requirements specified in this document. Please make
 sure to read the whole document carefully.
 
-| 01st March 2016 | CFP announcement                        |            |
+| Date            | Action Item                             | Delta      |
+| :-------------- | :-------------------------------------- | :--------- |
+| 01st March 2016 | CFP announcement                        | --         |
 | 30th April 2016 | Deadline for submissions                | + ~8 weeks |
-| 15th May 2016   | Deadline for PyCon APAC Committee (PAC) |            |
-|                 | to review proposals                     | + ~2 weeks |
+| 15th May 2016   | Deadline for PyCon APAC Committee (PAC) | + ~2 weeks |
+| --              | to review proposals                     | --         |
 | 30th May 2016   | Deadline for amended proposals          | + ~2 weeks |
 | 15th June 2016  | Decision on the next PyCon APAC host    | + ~2 weeks |
 
