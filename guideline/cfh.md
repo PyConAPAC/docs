@@ -333,5 +333,5 @@ remotely and persist from location to location. This framework will help:
 3. encourage the wider APAC community to take part in the organization process
    beside the on-site team
 
-The PyCon APAC framework can take reference from models such as those of
-[EuroPython](http://www.europython-society.org/).
+The PyCon APAC framework can take reference from models such as [those of
+EuroPython](http://www.europython-society.org/post/99718376575/europython-workgroups-call-for-volunteers).
