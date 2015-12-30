@@ -23,6 +23,8 @@ help run PyCon Asia Pacific in 2017 in a location they are local to. PyCon APAC
 Asia-Pacific countries to come together to meet with fellow Python users. The
 same can be said for anyone adopting an exploratory perspective towards Python. 
 
+The above text proposes that a certain group 'owns' PyCon APAC. The below text also puts forth certain rules and requirements which would-be organizers needs to adhere to before they can be _considered_ as eligable to organize PyCon APAC. If we endorse a certain party, I think we also need to be clear on the responsibility that we hold as the party that endorses a certain organizer. We cannot just say "yes, you can hold PyCon APAC" but do not follow through on issues that might occur after that.
+
 ## Timeline for Proposals
 
 The Call for Participation will run until the following deadline for
@@ -83,8 +85,7 @@ These are the requirements that an on-site team will sign-up to when submitting
 a proposal. Changes to these requirements are possible, but they must be signed
 off by the PAC before they can be put in place.
 
-1. The conference will be financially and legally run by an entity registered
-   at the hosting country and for which the on-site team is part of.
+1. The conference will be financially and legally run in the hosting country and for which the on-site team is part of.
 
 2. The on-site team must be geographically located in a country in the Asia
    Pacific and Australasia region. 
