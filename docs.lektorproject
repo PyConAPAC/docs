@@ -1,0 +1,7 @@
+[project]
+name = PyCon APAC Docs
+
+[servers.ghpages]
+name = GitHub Pages
+target = ghpages://marksteve/pyconapac-docs
+
