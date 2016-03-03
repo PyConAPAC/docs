@@ -7,13 +7,13 @@
 <link rel="stylesheet" href="//npmcdn.com/basscss-darken@1.1.0/css/darken.css">
 <link rel="stylesheet" href="//npmcdn.com/basscss-lighten@1.1.0/css/lighten.css">
 <link rel="stylesheet" href="//npmcdn.com/platformicons@0.0.14/platformicons/platformicons.css">
-<link rel="stylesheet" href="{{ '/static/style.css'|url }}">
+<link rel="stylesheet" href="{{ '/static/style.css'|asseturl }}">
 <title>{% block title %}Home{% endblock %} — PyCon APAC Docs</title>
 <body class="m0">
   <main class="flex flex-column">
     <header class="bg-blue white p2 flex">
       <h1 class="h3 m0 flex-auto">
-        <a class="border-none" href="/">
+        <a class="border-none" href="{{ site.get('/')|url }}">
           <span class="platformicon-python align-middle"></span>
           PyCon APAC Docs
         </a>
