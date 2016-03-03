@@ -1,6 +1,8 @@
-# PyCon Asia Pacific 2017
-
-## Call for Participation
+_model: page
+---
+title: Call for Participation
+---
+body:
 
 This is the announcement for the Call for Participation (CFP) for PyCon Asia
 Pacific (APAC) 2017. The purpose of this call is to select an Asia Pacific
@@ -335,3 +337,4 @@ remotely and persist from location to location. This framework will help:
 
 The PyCon APAC framework can take reference from models such as [those of
 EuroPython](http://www.europython-society.org/post/99718376575/europython-workgroups-call-for-volunteers).
+

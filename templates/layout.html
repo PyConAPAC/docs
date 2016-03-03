@@ -1,0 +1,34 @@
+<!doctype html>
+<meta charset="utf-8">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css">
+<link rel="stylesheet" href="//npmcdn.com/basscss@8.0.1/css/basscss.min.css">
+<link rel="stylesheet" href="//npmcdn.com/basscss-colors@2.2.0/css/colors.css">
+<link rel="stylesheet" href="//npmcdn.com/basscss-background-colors@2.1.0/css/background-colors.css">
+<link rel="stylesheet" href="//npmcdn.com/basscss-darken@1.1.0/css/darken.css">
+<link rel="stylesheet" href="//npmcdn.com/basscss-lighten@1.1.0/css/lighten.css">
+<link rel="stylesheet" href="//npmcdn.com/platformicons@0.0.14/platformicons/platformicons.css">
+<link rel="stylesheet" href="{{ '/static/style.css'|asseturl }}">
+<title>{% block title %}Home{% endblock %} — PyCon APAC Docs</title>
+<body class="m0">
+  <main class="flex flex-column">
+    <header class="bg-blue white p2 flex">
+      <h1 class="h3 m0 flex-auto">
+        <a class="border-none" href="{{ site.get('/')|url }}">
+          <span class="platformicon-python align-middle"></span>
+          PyCon APAC Docs
+        </a>
+      </h1>
+      <nav class="right-align">
+        <ul class="list-reset m0">
+          <li class="inline-block">
+            <a href="https://github.com/PyConAPAC/docs">GitHub</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    {% block body %}{% endblock %}
+    <footer class="bg-blue white p2">
+      &copy; Copyright 2016 by PyCon APAC Organizers.
+    </footer>
+  </main>
+</body>
