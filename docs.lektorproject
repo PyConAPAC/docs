@@ -5,3 +5,6 @@ name = PyCon APAC Docs
 name = GitHub Pages
 target = ghpages://pyconapac/docs
 
+
+[packages]
+lektor-markdown-header-anchors = 0.1
